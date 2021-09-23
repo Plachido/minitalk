@@ -3,8 +3,9 @@
 
 # include <unistd.h>
 # include <stdlib.h>
-#include <signal.h>
-char 	*ft_itoa(int n);
+# include <signal.h>
+
+char	*ft_itoa(int n);
 void	ft_putstr(char *s);
 void	ft_putendl(char *s);
 int		ft_atoi(const char *str);
