@@ -1,4 +1,4 @@
-#include "../minitalk.h"
+#include "../minitalk_bonus.h"
 
 static int	ft_control_ws(const char *str)
 {
